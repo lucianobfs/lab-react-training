@@ -62,3 +62,46 @@
   margin-left: 600px;
   margin-top: 15px;
 }
+
+
+.likebtn {
+  border: none;
+  margin: 5px;
+}
+
+.glassesguy {
+  width: 30%;
+  height: auto;
+}
+
+.dice {
+  width: 130px;
+  height: auto;
+  margin: 5px;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid black;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  margin: 5px;
+  align-content: center;
+}
+
+.red-div {
+  background-color: red;
+}
+
+
+.face-imgs {
+  width: 20%;
+}
+
+.facetest {
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+}
